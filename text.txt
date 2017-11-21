@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4C26-9BB2
+
+ Directory of C:\Users\Sampada Dhakal\Desktop\git
+
+11/21/2017  06:25 AM    <DIR>          .
+11/21/2017  06:25 AM    <DIR>          ..
+11/21/2017  06:25 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  112,779,509,760 bytes free
